@@ -1,0 +1,204 @@
+True : At its core, the role a Product Manager is to make sure that the team is building the right thing
+
+True : Prioritization is an important part of the PM’s role
+
+False: The role of the Product Manager is identical across all companies
+
+Software				Define requirements for a mobile app
+Hardware				Defining requirements for a physical device
+Growth				Define requirements for new user onboarding
+Internationalization		Define requirements to launch in a new market
+Data					Define requirements for machine learning algorithms
+
+True : Identifying the right problem to solve is one of the most important parts of the PM role
+
+everything: Which of the following are things that PMs do?
+
+False: PMs will get all insights and requirements to successfully build a product from the research team.
+
+Which of the following are teams that PMs may work with:
+
+Team			Role
+Design			design what the product looks like
+Research			provide market, user, and product insights
+Engineering		build and maintain the product
+TPM / PgM		keep the team on schedule
+QA				make sure the product works
+Data Science		product insights from data and experimentation
+Marketing			explain the product to users
+PR				explain the product to the media
+Sales	sell 			the product
+Support			help users use the product
+Legal & Privacy	reduce the product’s risk
+Policy			create rules for how the product can be used
+Ops				help deliver the product to users
+i18n				get the product to additional countries and languages
+
+False: You are done identifying requirements after the PRD has been finalized.
+
+False: Users can frequently tell you exactly what the product should do, which should be captured as requirements.
+
+False: Every feature request that comes in should go on your roadmap
+
+True : Roadmaps can be used as a tool to discuss trade offs what features get built and when
+
+False: PRDs detail out exactly how the product should work
+
+False: Once a PRD is written it will not change.
+
+Problem
+Users don’t always wake up at the right time
+Wake up times may vary based on the time of day
+Goals
+Users wake up on time
+Users can set different alarms based on their schedule
+Key Features
+P0 - Alarm based on day of week
+P0 - Support for multiple alarms (at least 10)
+P0 - Alarm management - edit and delete existing alarms
+P0 - Alarm goes off at designated time
+P0 - Snooze active alarm
+P0 - Turn off active alarm
+P1 - Customizable alarm tones
+P1 - Alarm gradually increases in volume over time
+P1 - Auto alarms - Alarm goes off a specified amount of time before the first event on the user’s calendar
+P1 - “Silent alarm” that vibrates only
+
+Q1
+Basic Alarm
+Snooze
+Edit
+Q2
+Multiple alarms
+Better management for multiple alarms
+Q3
+Gentle alarm
+Custom tones
+Q4
+Auto alarms
+Sleep monitoring
+
+Quiz Question
+Why is it important to identify the right problems to solve?
+1 limited amount of time 
+2 different levels of impact
+
+Quiz Question
+What are the things that you have control over when building a product?
+1 problem you are solving
+2 the product you are building
+3 the people on the team
+
+True Product/market fit means being in a good market with a product that can satisfy that market.
+
+Match the scenarios to things that represent product/market fit or no product/market fit
+Scenario						Fit
+Product sells itself				Product/Market Fit
+Slow growth					No Product/Market Fit
+Hard to keep up with demand		Product/Market Fit
+Press wants to interview you		Product/Market Fit
+No word of mouth				No Product/Market Fit
+No press buzz					No Product/Market Fit
+
+false: Your target user is a specific individual user you are targeting
+
+false: TAM is a way to predict your future sales
+
+TAM = Average revenue per user X total number of potential users in the market
+
+There are several approaches to calculating TAM:
+
+Top Down
+You start with a high level view of the economy, and then narrow that down based on factors like demographics. For example, you usually will start will everyone in the world and narrow down that audience to people who are interested in your product.
+Bottoms Up
+This involves using known data points that you have (data from early customers and sales) that you could extrapolate to represent a larger market opportunity. For example, if you are already selling a product in one region and were considering selling it globally.
+Value Theory
+Generally used for new product categories where you don’t have much information to base estimates on. This involves conducting market research to understand how much people would pay for your product and how many potential customers you have.
+
+Quiz Question
+Using the data in the table above., match each problem to its ROI
+
+Problem		ROI
+A			100%
+B			75%
+C			33%
+D			50%
+
+Quiz Question
+Which problem has the shortest payback period?  A
+
+Which of the following are things that you should consider when creating a hypotheses::
+1 is this a real problem
+2 is this an urgent problem
+3 does our solution are available
+4 what alternative solution are available
+5 how much will people pay for this product
+6 what could increase people' willingness to pay
+
+True : It’s helpful to show users a prototype when validating your hypotheses
+
+false: A business case describes how the product will work in detail
+
+false: Every feature must have an in depth business case.
+
+True : Vision sets the direction of the product
+
+What is vision?
+aspirational
+inspiring
+north star
+
+Which is the best example of vision?
+ ans frustration-free ticket sales
+
+True: Strategy is all about how you get to your vision
+
+A business model does which of the following:
+how vaue is created
+how vaue is delivered
+how vaue is captured
+
+Key Partners - help build or deliver the product to users
+Key Activities - what you need to do to build and deliver the product
+Key Resources - things that you need to build the product
+Cost Structure - cost of building the product
+Value prop - why people would want your product
+Customer Relationships - how you build relationships
+Channel - how you get the product to customers
+Customer Segments - different types of customers
+Revenue Streams - how you get money from customers
+
+false: Products must have a single revenue model
+
+What types of things could you expect to see in a competitive analysis?
+Product offering and key features
+Differentiators
+Target customers
+Distribution channels
+Price points
+Reviews
+Quotes from customer
+
+What are the goals of building an MVP?
+deliver customer value
+get to market fast
+get early feedback from customer
+
+false: A metric is always a KPI
+
+False: You want to have as many KPIs as possible
+
+Match the KPI to the type of KPI it is
+Type of KPI			KPI
+Business			Revenue
+Product				Feature usage
+Quality				Uptime
+Development			Team velocity
+
+Map the element of the story to its definition
+Element		Definition
+Hero		The main character-- your user
+Goal		What the user is trying to accomplish
+Villai		The problem that is preventing the user from reaching their goal
+Sidekick	A companion that helps the hero reach their goal-- your product
+Plot		A detailed account of how the hero and the sidekick defeat their villain and reach their goal
